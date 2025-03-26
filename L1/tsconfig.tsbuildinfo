@@ -1,1 +1,1 @@
-{"root":["./src/delayed.tsx","./src/greet.tsx","./src/hello.tsx","./src/sum.tsx"],"version":"5.8.2"}
+{"root":["./src/AgeChecker.tsx","./src/delayed.tsx","./src/greet.tsx","./src/hello.tsx","./src/objects.tsx","./src/sum.tsx"],"version":"5.8.2"}
